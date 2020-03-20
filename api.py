@@ -45,7 +45,7 @@ def encodeBase64():
 
   return jsonify("".join(map(chr, base64.b64encode(request.form['input'].encode()))))
 
-@app.route("/decode64decode", methods=["POST"])
+@app.route("/base64decode", methods=["POST"])
 def decodeBase64():
 
   return jsonify("".join(map(chr, base64.b64decode(request.form['input'].encode()))))
