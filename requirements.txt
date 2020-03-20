@@ -1,6 +1,0 @@
-python 3.8 
-pip install flask
-Microsoft Visual C++ 14.0 
-#RUN
-python api.py
-Defualt port:5000
