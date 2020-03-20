@@ -1,5 +1,4 @@
 from flask import Flask
-import fasttext
 from flask import g
 from flask import jsonify
 from flask import request
