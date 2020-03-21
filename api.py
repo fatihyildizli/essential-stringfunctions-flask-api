@@ -9,9 +9,10 @@ import codecs
 import base64
 import binascii
 import os
+from flask_cors import CORS
 ## Author: Fatih Yıldızlı 
 app = Flask(__name__)
-
+CORS(app)
 
 @app.route("/length", methods=["POST"])
 def length():
