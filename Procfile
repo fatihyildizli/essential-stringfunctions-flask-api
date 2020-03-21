@@ -1,1 +1,1 @@
-web: python api.py -p $PORT
+web: python dealscraper/api.py
