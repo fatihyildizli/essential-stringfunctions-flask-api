@@ -8,6 +8,7 @@ colorama==0.4.3
 Django==3.0.3
 fasttext==0.9.1
 Flask==1.1.1
+Flask-Cors==3.0.8
 ## !! Could not determine repository location
 Flask-RESTful==0.3.8
 flask-restplus==0.13.0
