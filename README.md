@@ -33,7 +33,7 @@ https://essentialfy.herokuapp.com/
 **Base64 to String**
  
 
-    curl --location --request POST 'https://essentialfy.herokuapp.com/base64encode' \
+    curl --location --request POST 'https://essentialfy.herokuapp.com/base64decode' \
                 --form 'input=ZmF0aWg='
 
 **String to HEX**
