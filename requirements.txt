@@ -31,7 +31,7 @@ pylint==2.4.4
 pyrsistent==0.15.7
 pytesseract==0.3.2
 pytz==2019.3
-PyYAML==5.3.1
+PyYAML==5.4
 six==1.14.0
 sqlparse==0.3.1
 Werkzeug==0.16.1
