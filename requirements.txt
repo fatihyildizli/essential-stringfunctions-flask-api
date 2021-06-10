@@ -5,7 +5,7 @@ attrs==19.3.0
 autopep8==1.5
 Click==7.0
 colorama==0.4.3
-Django==3.0.14
+Django==3.1.12
 fasttext==0.9.1
 Flask==1.1.1
 Flask-Cors==3.0.9
