@@ -12,7 +12,7 @@ Flask-Cors==3.0.9
 ## !! Could not determine repository location
 Flask-RESTful==0.3.8
 flask-restplus==0.13.0
-flask-restx==0.1.1
+flask-restx==0.5.1
 flask-swagger==0.2.14
 image==1.5.28
 isort==4.3.21
