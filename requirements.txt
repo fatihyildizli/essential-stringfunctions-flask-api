@@ -22,7 +22,7 @@ jsonschema==3.2.0
 lazy-object-proxy==1.4.3
 MarkupSafe==1.1.1
 mccabe==0.6.1
-numpy==1.18.1
+numpy==1.22.0
 opencv-python==4.2.0.32
 Pillow==8.1.1
 pybind11==2.4.3
